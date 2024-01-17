@@ -1,38 +1,11 @@
-# Welcome to Remix!
+# Remix with Tailwind CSS and Typography
+
+The missing starter template for Remix with Tailwind CSS and Typography configured, and absolutely nothing else.
+
+```sh
+npx create-remix@latest --template SimeonGriggs/remix-tailwind-typography
+```
 
 - [Remix Docs](https://remix.run/docs)
-
-## Development
-
-From your terminal:
-
-```sh
-npm run dev
-```
-
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
+- [@tailwindcss/typography Docs](https://tailwindcss.com/docs/typography-plugin)
