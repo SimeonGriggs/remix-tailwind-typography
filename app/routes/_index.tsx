@@ -9,7 +9,7 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div className="p-12 container mx-auto prose lg:prose-xl">
+    <div className="prose prose-blue prose-lg mx-auto px-8 py-24">
       <h1>Welcome to Remix</h1>
       <ul>
         <li>
